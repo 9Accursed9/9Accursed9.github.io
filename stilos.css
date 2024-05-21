@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color:darkorange;
+}
+footer {
+    position: fixed;
+    text-align:center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+body a {
+    color: white;
+}
+
+#banner {
+    width: 100%;
+    text-align: center;
+    height: 300px;
+}
